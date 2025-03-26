@@ -10,7 +10,7 @@ Each `.pkt` file demonstrates different networking concepts such as **static rou
 | Topology | Description | Screenshot |
 |----------|------------|------------|
 | **Bus Topology** | A **bus network** where all devices share a common communication line. | ![Bus Topology](./screenshots/bustopology.png) |
-| **Mesh Topology** | A **fully connected** network with multiple redundant paths. | ![Mesh Topology](./screenshots/meshtopology.png) |
+| **Mesh Topology** | A **fully connected** network with multiple redundant paths. | ![Mesh Topology](./screenshots/meshtpology.png) |
 | **Ring Topology** | A **ring-based network** where each device is connected to two other devices. | ![Ring Topology](./screenshots/ringtopology.png) |
 | **Star Topology** | A network where all devices are **connected to a central hub or switch**. | ![Star Topology](./screenshots/startopology.png) |
 | **Static Routing** | **Manually configured routes** to enable communication between different networks. | ![Static Routing](./screenshots/staticrouting.png) |
