@@ -1,6 +1,6 @@
 # Networking using Cisco Packet Tracer - Static & Dynamic Routing
 
-This repository contains various **network topology simulations** created using **Cisco Packet Tracer**.  
+This repository contains various **network topology simulations** created using **Cisco Packet Tracer** during my fourth semester.  
 Each `.pkt` file demonstrates different networking concepts such as **static routing, dynamic routing, topology structures, and router configurations**.
 
 ---
